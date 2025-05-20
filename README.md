@@ -46,6 +46,3 @@
 pip install matplotlib numpy
 ```
 
-## Авторы
-
-- Ваше имя или никнейм 
